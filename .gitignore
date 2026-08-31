@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+runs/
+*.pt
+*.onnx
+*.engine
+*.tflite
+*.zip
+.DS_Store
